@@ -139,6 +139,7 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    margin-top: 5rem;
 }
 
 .footer .link {
@@ -166,3 +167,12 @@ hr {
     margin-bottom:100px;
 }
 
+.para
+{
+    background-color:lightgray;
+}
+
+.sectionaire1
+{
+    margin-bottom:10px;
+}
