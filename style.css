@@ -184,3 +184,22 @@ hr {
 
 }
 
+.table
+{
+    width:60%;
+    align-items: center;
+    border:1px solid black;
+    margin-left:17rem;
+    border-radius: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+ }
+
+ th,td
+ {
+   padding:10px;
+ }
